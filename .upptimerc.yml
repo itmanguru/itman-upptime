@@ -5,7 +5,8 @@ repo: itman-upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: ATT Gateway
-    url: https://itman-gateway.itman.guru
+    url: https://itman-gateway.itman.guru/cgi-bin/home.ha/
+    icon: https://www.att.com/favicon.ico
     __dangerous_insecure: true
     expectedStatusCodes:
       - 200
@@ -21,6 +22,7 @@ sites:
       - 404
   - name: Itman HQ WAN2
     url: https://itman-hq-wan2.itman.guru:10443/
+    icon: https://www.fortinet.com/favicon.ico
     __dangerous__insecure: true
     expectedStatusCodes:
       - 200
@@ -28,6 +30,7 @@ sites:
       - 404
   - name: Itman Branch WAN1 
     url: https://itman-branch-wan1.itman.guru:10443/
+    icon: https://www.fortinet.com/favicon.ico
     __dangerous__insecure: true
     expectedStatusCodes:
       - 200
