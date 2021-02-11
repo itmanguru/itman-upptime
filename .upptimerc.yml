@@ -5,9 +5,9 @@ repo: itman-upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: ATT Gateway
-    url: https://itman-gateway.itman.guru/cgi-bin/home.ha/
+    url: http://itman-gateway.itman.guru
     icon: https://www.att.com/favicon.ico
-    __dangerous_insecure: true
+    #__dangerous_insecure: true
     expectedStatusCodes:
       - 200
       - 201
