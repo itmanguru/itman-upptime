@@ -7,7 +7,7 @@ sites:
   - name: ATT Gateway
     url: https://104.52.87.190
     __dangerous_insecure: true
-        expectedStatusCodes:
+       expectedStatusCodes:
       - 200
       - 201
       - 404
@@ -15,21 +15,21 @@ sites:
     url: https://itman-hq-wan1.itman.guru:10443/
     icon: https://www.google.com/favicon.ico
     __dangerous__insecure: true
-        expectedStatusCodes:
+       expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Itman HQ WAN2
     url: https://itman-hq-wan2.itman.guru:10443/
     __dangerous__insecure: true
-        expectedStatusCodes:
+       expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Itman Branch WAN1 
     url: https://itman-branch-wan1:10443/
     __dangerous__insecure: true
-        expectedStatusCodes:
+       expectedStatusCodes:
       - 200
       - 201
       - 404
