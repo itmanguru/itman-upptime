@@ -1,43 +1,41 @@
 [
   {
     "name": "ATT Gateway",
-    "url": "https://104.52.87.190",
-    "icon": "https://favicons.githubusercontent.com/104.52.87.190",
+    "url": "https://itman-gateway.itman.guru",
+    "icon": "https://favicons.githubusercontent.com/itman-gateway.itman.guru",
     "slug": "att-gateway",
     "status": "down",
-    "uptime": "3.39%",
-    "uptimeDay": "3.39%",
-    "uptimeWeek": "3.39%",
-    "uptimeMonth": "3.39%",
-    "uptimeYear": "3.39%",
+    "uptime": "22.32%",
+    "uptimeDay": "22.32%",
+    "uptimeWeek": "22.32%",
+    "uptimeMonth": "22.32%",
+    "uptimeYear": "22.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-11": 15
+      "2021-02-11": 35
     }
   },
   {
     "name": "Itman HQ WAN1",
     "url": "https://itman-hq-wan1.itman.guru:10443/",
-    "icon": "https://www.google.com/favicon.ico",
+    "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "up",
-    "uptime": "22.15%",
-    "uptimeDay": "22.15%",
-    "uptimeWeek": "22.15%",
-    "uptimeMonth": "22.15%",
-    "uptimeYear": "22.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 486,
     "timeWeek": 486,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {
-      "2021-02-11": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Itman HQ WAN2",
@@ -45,38 +43,36 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "22.06%",
-    "uptimeDay": "22.06%",
-    "uptimeWeek": "22.06%",
-    "uptimeMonth": "22.06%",
-    "uptimeYear": "22.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 477,
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2021-02-11": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Itman Branch WAN1",
-    "url": "https://itman-branch-wan1:10443/",
-    "icon": "https://favicons.githubusercontent.com/itman-branch-wan1",
+    "url": "https://itman-branch-wan1.itman.guru:10443/",
+    "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "21.12%",
+    "uptimeDay": "21.12%",
+    "uptimeWeek": "21.12%",
+    "uptimeMonth": "21.12%",
+    "uptimeYear": "21.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-11": 15
+      "2021-02-11": 35
     }
   }
 ]
