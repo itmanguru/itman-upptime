@@ -15,9 +15,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-02-11": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Itman HQ WAN1",
@@ -25,18 +23,19 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "8.22%",
+    "uptime": "8.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.22%",
+    "uptimeYear": "8.20%",
     "time": 365,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-02-10": 65,
+      "2022-02-11": 69,
+      "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
@@ -379,18 +378,19 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "8.22%",
+    "uptime": "8.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.22%",
+    "uptimeYear": "8.20%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-02-10": 65,
+      "2022-02-11": 69,
+      "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
@@ -733,14 +733,14 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "57.99%",
+    "uptime": "58.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.99%",
+    "uptimeYear": "58.11%",
     "time": 285,
-    "timeDay": 322,
-    "timeWeek": 313,
+    "timeDay": 334,
+    "timeWeek": 314,
     "timeMonth": 287,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -897,8 +897,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1307,
-      "2021-02-11": 35
+      "2021-03-05": 1307
     }
   }
 ]
