@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "7.41%",
+    "uptime": "7.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 83,
+      "2022-03-23": 92,
+      "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
@@ -397,8 +398,7 @@
       "2021-03-27": 1440,
       "2021-03-26": 1440,
       "2021-03-25": 1440,
-      "2021-03-24": 1440,
-      "2021-03-23": 1440
+      "2021-03-24": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "7.41%",
+    "uptime": "7.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 83,
+      "2022-03-23": 92,
+      "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
@@ -781,8 +782,7 @@
       "2021-03-27": 1440,
       "2021-03-26": 1440,
       "2021-03-25": 1440,
-      "2021-03-24": 1440,
-      "2021-03-23": 1440
+      "2021-03-24": 1440
     }
   },
   {
@@ -791,14 +791,14 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "62.16%",
+    "uptime": "62.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.85%",
+    "uptimeYear": "63.13%",
     "time": 284,
-    "timeDay": 111,
-    "timeWeek": 262,
+    "timeDay": 292,
+    "timeWeek": 248,
     "timeMonth": 243,
     "timeYear": 281,
     "dailyMinutesDown": {
@@ -936,8 +936,7 @@
       "2021-03-27": 1440,
       "2021-03-26": 1440,
       "2021-03-25": 1440,
-      "2021-03-24": 1440,
-      "2021-03-23": 1440
+      "2021-03-24": 1440
     }
   }
 ]
