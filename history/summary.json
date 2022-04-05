@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "7.18%",
+    "uptime": "7.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-04": 100,
+      "2022-04-05": 84,
+      "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
@@ -397,8 +398,7 @@
       "2021-04-09": 1440,
       "2021-04-08": 1440,
       "2021-04-07": 1440,
-      "2021-04-06": 1440,
-      "2021-04-05": 1440
+      "2021-04-06": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "7.18%",
+    "uptime": "7.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-04": 100,
+      "2022-04-05": 84,
+      "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
@@ -781,8 +782,7 @@
       "2021-04-09": 1440,
       "2021-04-08": 1440,
       "2021-04-07": 1440,
-      "2021-04-06": 1440,
-      "2021-04-05": 1440
+      "2021-04-06": 1440
     }
   },
   {
@@ -791,15 +791,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "63.34%",
+    "uptime": "63.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.42%",
+    "uptimeYear": "66.69%",
     "time": 284,
-    "timeDay": 406,
-    "timeWeek": 230,
-    "timeMonth": 269,
+    "timeDay": 267,
+    "timeWeek": 211,
+    "timeMonth": 270,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2021-12-06": 29,
@@ -923,8 +923,7 @@
       "2021-04-09": 1440,
       "2021-04-08": 1440,
       "2021-04-07": 1440,
-      "2021-04-06": 1440,
-      "2021-04-05": 1440
+      "2021-04-06": 1440
     }
   }
 ]
