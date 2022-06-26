@@ -23,18 +23,19 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.99%",
+    "uptime": "5.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 333,
+    "time": 326,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 118,
+      "2022-06-26": 123,
+      "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -397,8 +398,7 @@
       "2021-06-30": 1440,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440
+      "2021-06-27": 1440
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "13.41%",
+    "uptime": "13.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.13%",
-    "time": 331,
-    "timeDay": 539,
-    "timeWeek": 336,
-    "timeMonth": 326,
-    "timeYear": 315,
+    "uptimeYear": "10.40%",
+    "time": 327,
+    "timeDay": 173,
+    "timeWeek": 314,
+    "timeMonth": 323,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2022-05-19": 175,
       "2022-05-18": 1440,
@@ -744,8 +744,7 @@
       "2021-06-30": 1440,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440
+      "2021-06-27": 1440
     }
   },
   {
@@ -754,16 +753,16 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "69.38%",
+    "uptime": "69.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.89%",
-    "time": 272,
-    "timeDay": 250,
-    "timeWeek": 252,
-    "timeMonth": 246,
-    "timeYear": 272,
+    "uptimeYear": "89.16%",
+    "time": 273,
+    "timeDay": 428,
+    "timeWeek": 258,
+    "timeMonth": 252,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2021-12-06": 29,
       "2021-08-04": 890,
@@ -804,8 +803,7 @@
       "2021-06-30": 1440,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440
+      "2021-06-27": 1440
     }
   }
 ]
