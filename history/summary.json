@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.65%",
+    "uptime": "5.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-25": 119,
+      "2022-07-26": 129,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -397,8 +398,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   },
   {
@@ -407,15 +407,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "18.33%",
+    "uptime": "18.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "18.34%",
+    "uptimeYear": "18.62%",
     "time": 303,
-    "timeDay": 378,
-    "timeWeek": 290,
-    "timeMonth": 290,
+    "timeDay": 249,
+    "timeWeek": 260,
+    "timeMonth": 292,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2022-06-30": 16,
@@ -715,8 +715,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   },
   {
@@ -725,15 +724,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "71.11%",
+    "uptime": "71.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.38%",
     "time": 269,
-    "timeDay": 111,
-    "timeWeek": 138,
-    "timeMonth": 235,
+    "timeDay": 351,
+    "timeWeek": 161,
+    "timeMonth": 233,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2022-06-30": 16,
@@ -746,8 +745,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   }
 ]
