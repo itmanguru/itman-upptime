@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.61%",
+    "uptime": "5.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-29": 129,
+      "2022-07-30": 120,
+      "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
@@ -397,8 +398,7 @@
       "2021-08-03": 1440,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
-      "2021-07-31": 1440,
-      "2021-07-30": 1440
+      "2021-07-31": 1440
     }
   },
   {
@@ -407,15 +407,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "18.94%",
+    "uptime": "19.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "19.44%",
+    "uptimeYear": "19.71%",
     "time": 300,
-    "timeDay": 172,
-    "timeWeek": 248,
-    "timeMonth": 293,
+    "timeDay": 310,
+    "timeWeek": 256,
+    "timeMonth": 292,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2022-06-30": 16,
@@ -711,8 +711,7 @@
       "2021-08-03": 1440,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
-      "2021-07-31": 1440,
-      "2021-07-30": 1440
+      "2021-07-31": 1440
     }
   },
   {
@@ -721,16 +720,16 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "71.33%",
+    "uptime": "71.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.20%",
-    "time": 269,
-    "timeDay": 109,
-    "timeWeek": 182,
-    "timeMonth": 231,
-    "timeYear": 269,
+    "uptimeYear": "98.48%",
+    "time": 268,
+    "timeDay": 223,
+    "timeWeek": 192,
+    "timeMonth": 229,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2022-06-30": 16,
       "2021-12-06": 29,
@@ -738,8 +737,7 @@
       "2021-08-03": 1440,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
-      "2021-07-31": 1440,
-      "2021-07-30": 1440
+      "2021-07-31": 1440
     }
   }
 ]
