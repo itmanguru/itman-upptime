@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.28%",
+    "uptime": "5.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-31": 153,
+      "2022-09-01": 128,
+      "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
@@ -397,8 +398,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   },
   {
@@ -407,15 +407,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "23.68%",
+    "uptime": "23.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.49%",
+    "uptimeYear": "28.76%",
     "time": 301,
-    "timeDay": 445,
-    "timeWeek": 295,
-    "timeMonth": 305,
+    "timeDay": 319,
+    "timeWeek": 311,
+    "timeMonth": 304,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2022-06-30": 16,
@@ -678,8 +678,7 @@
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
-      "2021-09-02": 1440,
-      "2021-09-01": 1440
+      "2021-09-02": 1440
     }
   },
   {
@@ -688,15 +687,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "73.01%",
+    "uptime": "73.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 78,
-    "timeWeek": 186,
-    "timeMonth": 231,
+    "timeDay": 194,
+    "timeWeek": 192,
+    "timeMonth": 228,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-06-30": 16,
