@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-02": 133,
+      "2022-09-03": 140,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -397,8 +398,7 @@
       "2021-09-07": 1440,
       "2021-09-06": 1440,
       "2021-09-05": 1440,
-      "2021-09-04": 1440,
-      "2021-09-03": 1440
+      "2021-09-04": 1440
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "23.94%",
+    "uptime": "24.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.03%",
-    "time": 300,
-    "timeDay": 236,
-    "timeWeek": 300,
-    "timeMonth": 299,
-    "timeYear": 300,
+    "uptimeYear": "29.31%",
+    "time": 299,
+    "timeDay": 219,
+    "timeWeek": 294,
+    "timeMonth": 301,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2022-06-30": 16,
       "2022-05-19": 175,
@@ -676,8 +676,7 @@
       "2021-09-07": 1440,
       "2021-09-06": 1440,
       "2021-09-05": 1440,
-      "2021-09-04": 1440,
-      "2021-09-03": 1440
+      "2021-09-04": 1440
     }
   },
   {
@@ -686,15 +685,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "73.10%",
+    "uptime": "73.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 114,
-    "timeWeek": 181,
-    "timeMonth": 222,
+    "timeDay": 371,
+    "timeWeek": 205,
+    "timeMonth": 231,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-06-30": 16,
