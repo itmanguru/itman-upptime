@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.17%",
+    "uptime": "5.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-12": 148,
+      "2022-09-13": 144,
+      "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
@@ -397,8 +398,7 @@
       "2021-09-17": 1440,
       "2021-09-16": 1440,
       "2021-09-15": 1440,
-      "2021-09-14": 1440,
-      "2021-09-13": 1440
+      "2021-09-14": 1440
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "up",
-    "uptime": "25.26%",
+    "uptime": "25.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.77%",
-    "time": 295,
-    "timeDay": 308,
+    "uptimeYear": "32.05%",
+    "time": 294,
+    "timeDay": 167,
     "timeWeek": 227,
-    "timeMonth": 252,
-    "timeYear": 295,
+    "timeMonth": 247,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-06-30": 16,
       "2022-05-19": 175,
@@ -666,8 +666,7 @@
       "2021-09-17": 1440,
       "2021-09-16": 1440,
       "2021-09-15": 1440,
-      "2021-09-14": 1440,
-      "2021-09-13": 1440
+      "2021-09-14": 1440
     }
   },
   {
@@ -676,15 +675,15 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "up",
-    "uptime": "73.57%",
+    "uptime": "73.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 262,
-    "timeDay": 207,
-    "timeWeek": 169,
-    "timeMonth": 185,
+    "timeDay": 75,
+    "timeWeek": 168,
+    "timeMonth": 178,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2022-06-30": 16,
