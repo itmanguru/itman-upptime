@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-16": 555,
+      "2022-09-16": 577,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
@@ -406,9 +406,9 @@
     "url": "https://itman-hq-wan2.itman.guru:10443/",
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
-    "status": "up",
-    "uptime": "25.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "25.82%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "32.95%",
@@ -418,6 +418,7 @@
     "timeMonth": 249,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2022-09-16": 0,
       "2022-06-30": 16,
       "2022-05-19": 175,
       "2022-05-18": 1440,
@@ -673,9 +674,9 @@
     "slug": "itman-branch-wan-1",
     "status": "down",
     "uptime": "73.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 261,
     "timeDay": 80,
@@ -683,7 +684,7 @@
     "timeMonth": 169,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-09-16": 0,
+      "2022-09-16": 22,
       "2022-06-30": 16,
       "2021-12-06": 29
     }
