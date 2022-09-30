@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "5.03%",
+    "uptime": "5.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-29": 146,
+      "2022-09-30": 162,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -397,8 +398,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
-      "2021-10-01": 1440,
-      "2021-09-30": 1440
+      "2021-10-01": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://favicons.githubusercontent.com/itman-hq-wan2.itman.guru",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "25.26%",
+    "uptime": "25.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.25%",
+    "uptimeMonth": "54.92%",
     "uptimeYear": "32.95%",
     "time": 294,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 261,
+    "timeMonth": 262,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-09-29": 146,
+      "2022-09-30": 163,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -663,8 +664,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
-      "2021-10-01": 1440,
-      "2021-09-30": 1440
+      "2021-10-01": 1440
     }
   },
   {
@@ -673,18 +673,19 @@
     "icon": "https://favicons.githubusercontent.com/itman-branch-wan1.itman.guru",
     "slug": "itman-branch-wan-1",
     "status": "down",
-    "uptime": "72.18%",
+    "uptime": "72.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.20%",
-    "uptimeYear": "96.51%",
+    "uptimeMonth": "54.87%",
+    "uptimeYear": "96.23%",
     "time": 261,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 147,
-    "timeYear": 262,
+    "timeMonth": 148,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-09-29": 146,
+      "2022-09-30": 163,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
