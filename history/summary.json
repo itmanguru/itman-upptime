@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "4.43%",
+    "uptime": "4.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-18": 81,
+      "2022-12-19": 79,
+      "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -397,8 +398,7 @@
       "2021-12-23": 1440,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
-      "2021-12-20": 1440,
-      "2021-12-19": 1440
+      "2021-12-20": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/itman-hq-wan2.itman.guru.ico",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "22.27%",
+    "uptime": "22.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-12-18": 81,
+      "2022-12-19": 79,
+      "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -663,8 +664,7 @@
       "2021-12-23": 1440,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
-      "2021-12-20": 1440,
-      "2021-12-19": 1440
+      "2021-12-20": 1440
     }
   },
   {
@@ -673,18 +673,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/itman-branch-wan1.itman.guru.ico",
     "slug": "itman-branch-wan-1",
     "status": "down",
-    "uptime": "63.62%",
+    "uptime": "63.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.61%",
+    "uptimeYear": "74.33%",
     "time": 259,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-12-18": 81,
+      "2022-12-19": 79,
+      "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
