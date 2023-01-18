@@ -23,7 +23,7 @@
     "icon": "https://www.fortinet.com/favicon.ico",
     "slug": "itman-hq-wan-1",
     "status": "down",
-    "uptime": "4.24%",
+    "uptime": "4.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-17": 83,
+      "2023-01-18": 86,
+      "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
@@ -397,8 +398,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/itman-hq-wan2.itman.guru.ico",
     "slug": "itman-hq-wan-2",
     "status": "down",
-    "uptime": "21.32%",
+    "uptime": "21.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-01-17": 83,
+      "2023-01-18": 86,
+      "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
@@ -663,8 +664,7 @@
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
-      "2022-01-19": 1440,
-      "2022-01-18": 1440
+      "2022-01-19": 1440
     }
   },
   {
@@ -673,18 +673,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/itman-branch-wan1.itman.guru.ico",
     "slug": "itman-branch-wan-1",
     "status": "down",
-    "uptime": "60.91%",
+    "uptime": "60.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.39%",
-    "time": 260,
+    "uptimeYear": "66.11%",
+    "time": 261,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-01-17": 83,
+      "2023-01-18": 86,
+      "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
